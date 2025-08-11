@@ -1,15 +1,20 @@
- Personal Blog Platform
+📌 Description
+A mini-blog where you can add, edit, and delete posts. All data is saved in LocalStorage, so it remains even after the page is reloaded.
 
- 📌 Описание
-Мини-блог, где можно добавлять, редактировать и удалять посты. Все данные сохраняются в LocalStorage, поэтому они не пропадают при перезагрузке страницы.
+🚀 Features
 
- 🚀 Функционал
- Добавление поста с заголовком и содержимым
- Редактирование существующих постов
- Удаление постов
- Сохранение данных в LocalStorage
+Add posts with a title and content
 
- 🛠 Стек технологий
- HTML
- CSS
- JavaScript (LocalStorage)
+Edit existing posts
+
+Delete posts
+
+Save data in LocalStorage
+
+🛠 Tech Stack
+
+HTML
+
+CSS
+
+JavaScript (LocalStorage)
